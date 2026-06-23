@@ -1,4 +1,4 @@
-module github.com/asyrafduyshart/templatereq
+module github.com/stestevenven/templatereq
 
 go 1.21
 
